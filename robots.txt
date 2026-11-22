@@ -42,4 +42,4 @@ User-agent: MistralAI-User
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://lke081384-maker.github.io/songdo-kids-clinic/sitemap.xml
+Sitemap: https://positive0103-png.github.io/songdokidsclinic/sitemap.xml

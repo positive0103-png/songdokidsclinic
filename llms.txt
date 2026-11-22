@@ -13,38 +13,38 @@
 - 운영 시간: 평일 09:30~18:30, 토요일 09:00~17:00, 점심시간 13:00~14:00, 일요일·공휴일 휴무
 - 지하철: 인천 1호선 테크노파크역 2번 출구에서 약 480m, 걸어서 8분 정도
 - 주차: 게이트A 지하1층 상가 주차장
-- 홈페이지: https://lke081384-maker.github.io/songdo-kids-clinic/
+- 홈페이지: https://positive0103-png.github.io/songdokidsclinic/
 
 ## 치료·프로그램
 
-- [치료·프로그램 안내](https://lke081384-maker.github.io/songdo-kids-clinic/programs.html): 인천 송도 송도키즈 학습심리발달클리닉의 치료·프로그램. 언어치료, 놀이치료, 감각통합치료, 인지치료, 학습치료, ABA 여섯 가지 정규 프로그램과 사회성 그룹을 한눈에 안내합니다.
-- [언어치료](https://lke081384-maker.github.io/songdo-kids-clinic/language-therapy.html): 인천 송도 언어치료. 말이 늦거나 발음이 부정확할 때, 말을 더듬을 때 연령에 맞는 언어검사(SELSI·PRES·REVT 등)로 살펴보고 언어치료로 돕습니다. 1급 언어재활사. 상담 032-724-8175
-- [놀이치료](https://lke081384-maker.github.io/songdo-kids-clinic/play-therapy.html): 인천 송도 놀이치료. 불안이 크거나 감정 표현이 서툴 때, 또래 관계가 걱정될 때 기질검사(TCI)·행동평가(CBCL) 등으로 살펴보고 놀이치료로 돕습니다. 상담 032-724-8175
-- [감각통합치료](https://lke081384-maker.github.io/songdo-kids-clinic/sensory-integration.html): 인천 송도 감각통합치료. 소리나 촉감에 예민하거나 몸 움직임이 서툴 때, 산만할 때 작업치료 평가로 살펴보고 그네·암벽이 있는 감각통합 활동실에서 수업합니다. 상담 032-724-8175
-- [인지치료](https://lke081384-maker.github.io/songdo-kids-clinic/cognitive-therapy.html): 인천 송도 인지치료. 정보를 기억하고 활용하는 연습으로 스스로 생각하는 힘과 학습 준비를 돕습니다. 웩슬러 지능검사 등으로 먼저 살펴봅니다. 상담 032-724-8175
-- [학습치료](https://lke081384-maker.github.io/songdo-kids-clinic/learning-therapy.html): 인천 송도 학습치료. 공부 자체만 보지 않고 대인관계, 스트레스, 시험불안처럼 학습을 어렵게 하는 마음의 문제까지 함께 다룹니다. 웩슬러 지능검사·학습 성향 검사. 상담 032-724-8175
-- [ABA 응용행동분석](https://lke081384-maker.github.io/songdo-kids-clinic/aba.html): 인천 송도 ABA(응용행동분석). 새로운 것을 배우거나 환경에 적응하기 어려운 아이의 행동을 살펴보고 중재합니다. BCBA 슈퍼바이저와의 개별 상담으로 시작합니다. 상담 032-724-8175
-- [사회성 그룹 「나의 학교 생활을 부탁해」](https://lke081384-maker.github.io/songdo-kids-clinic/social-group.html): 인천 송도 사회성 그룹 「나의 학교 생활을 부탁해」. 초등학교 입학 예정이거나 단체생활 적응이 필요한 아이가 또래 4~6명과 함께 6회기 동안 연습합니다. 상담 032-724-8175
+- [치료·프로그램 안내](https://positive0103-png.github.io/songdokidsclinic/programs.html): 인천 송도 송도키즈 학습심리발달클리닉의 치료·프로그램. 언어치료, 놀이치료, 감각통합치료, 인지치료, 학습치료, ABA 여섯 가지 정규 프로그램과 사회성 그룹을 한눈에 안내합니다.
+- [언어치료](https://positive0103-png.github.io/songdokidsclinic/language-therapy.html): 인천 송도 언어치료. 말이 늦거나 발음이 부정확할 때, 말을 더듬을 때 연령에 맞는 언어검사(SELSI·PRES·REVT 등)로 살펴보고 언어치료로 돕습니다. 1급 언어재활사. 상담 032-724-8175
+- [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html): 인천 송도 놀이치료. 불안이 크거나 감정 표현이 서툴 때, 또래 관계가 걱정될 때 기질검사(TCI)·행동평가(CBCL) 등으로 살펴보고 놀이치료로 돕습니다. 상담 032-724-8175
+- [감각통합치료](https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html): 인천 송도 감각통합치료. 소리나 촉감에 예민하거나 몸 움직임이 서툴 때, 산만할 때 작업치료 평가로 살펴보고 그네·암벽이 있는 감각통합 활동실에서 수업합니다. 상담 032-724-8175
+- [인지치료](https://positive0103-png.github.io/songdokidsclinic/cognitive-therapy.html): 인천 송도 인지치료. 정보를 기억하고 활용하는 연습으로 스스로 생각하는 힘과 학습 준비를 돕습니다. 웩슬러 지능검사 등으로 먼저 살펴봅니다. 상담 032-724-8175
+- [학습치료](https://positive0103-png.github.io/songdokidsclinic/learning-therapy.html): 인천 송도 학습치료. 공부 자체만 보지 않고 대인관계, 스트레스, 시험불안처럼 학습을 어렵게 하는 마음의 문제까지 함께 다룹니다. 웩슬러 지능검사·학습 성향 검사. 상담 032-724-8175
+- [ABA 응용행동분석](https://positive0103-png.github.io/songdokidsclinic/aba.html): 인천 송도 ABA(응용행동분석). 새로운 것을 배우거나 환경에 적응하기 어려운 아이의 행동을 살펴보고 중재합니다. BCBA 슈퍼바이저와의 개별 상담으로 시작합니다. 상담 032-724-8175
+- [사회성 그룹 「나의 학교 생활을 부탁해」](https://positive0103-png.github.io/songdokidsclinic/social-group.html): 인천 송도 사회성 그룹 「나의 학교 생활을 부탁해」. 초등학교 입학 예정이거나 단체생활 적응이 필요한 아이가 또래 4~6명과 함께 6회기 동안 연습합니다. 상담 032-724-8175
 
 ## 검사
 
-- [검사 안내](https://lke081384-maker.github.io/songdo-kids-clinic/tests.html): 인천 송도 송도키즈 학습심리발달클리닉의 검사 18종. 언어·의사소통, 웩슬러 지능검사, CAT 주의력검사, 발달검사, 기질·정서 검사, 부모-자녀 관계 평가를 연령과 함께 안내합니다.
-- [언어·의사소통 검사](https://lke081384-maker.github.io/songdo-kids-clinic/language-test.html): 인천 송도 언어발달검사. 생후 4개월부터 받는 SELSI, PRES, REVT, 발음 검사 U-TAP2, 읽기검사 KOLRA 등 언어·의사소통 검사 8종을 연령에 맞게 고릅니다. 상담 032-724-8175
-- [웩슬러 지능검사·학습 성향 검사](https://lke081384-maker.github.io/songdo-kids-clinic/intelligence-test.html): 인천 송도 웩슬러 지능검사(K-WPPSI·K-WISC, 유아기~16세). 언어이해, 시공간, 유동추론, 작업기억, 처리속도를 종합적으로 평가하고 해석 상담으로 결과를 설명합니다. 상담 032-724-8175
-- [CAT 종합 주의력검사](https://lke081384-maker.github.io/songdo-kids-clinic/attention-test.html): 인천 송도 주의력검사. CAT 종합 주의력검사(만 4세~성인)는 시각·청각 과제로 주의 집중과 충동 억제를 측정합니다. 산만하고 집중이 어려운 아이의 상담. 032-724-8175
-- [발달 선별·정밀 평가](https://lke081384-maker.github.io/songdo-kids-clinic/developmental-test.html): 인천 송도 아동 발달검사. K-CDI 아동발달검사, 자폐 검사, 작업치료 평가로 전반적인 발달 수준과 감각·운동 발달을 봅니다. 영유아검진 심화평가 정밀검사 가능. 상담 032-724-8175
-- [정서·행동·기질 검사](https://lke081384-maker.github.io/songdo-kids-clinic/emotion-test.html): 인천 송도 아동 기질검사·정서행동검사. TCI 기질 및 성격검사와 CBCL 아동·청소년 행동평가척도로 아이의 마음 상태와 타고난 성향을 봅니다. 상담 032-724-8175
-- [부모-자녀 관계 평가](https://lke081384-maker.github.io/songdo-kids-clinic/parent-child-test.html): 인천 송도 부모-자녀 관계 평가. PCPA 부모-아동 상호작용 놀이평가와 부모양육태도검사로 아이와 보호자가 주고받는 방식을 살펴봅니다. 상담 032-724-8175
-- [영유아검진 ‘심화평가 권고’ 정밀검사](https://lke081384-maker.github.io/songdo-kids-clinic/checkup.html): 영유아 건강검진 발달평가에서 ‘심화평가 권고’를 받았다면 인천 송도 송도키즈 학습심리발달클리닉에서 정밀검사를 받을 수 있습니다. 발달·언어·주의집중력 검사, 작업치료 평가. 보건소 검사비 지원 안내.
+- [검사 안내](https://positive0103-png.github.io/songdokidsclinic/tests.html): 인천 송도 송도키즈 학습심리발달클리닉의 검사 18종. 언어·의사소통, 웩슬러 지능검사, CAT 주의력검사, 발달검사, 기질·정서 검사, 부모-자녀 관계 평가를 연령과 함께 안내합니다.
+- [언어·의사소통 검사](https://positive0103-png.github.io/songdokidsclinic/language-test.html): 인천 송도 언어발달검사. 생후 4개월부터 받는 SELSI, PRES, REVT, 발음 검사 U-TAP2, 읽기검사 KOLRA 등 언어·의사소통 검사 8종을 연령에 맞게 고릅니다. 상담 032-724-8175
+- [웩슬러 지능검사·학습 성향 검사](https://positive0103-png.github.io/songdokidsclinic/intelligence-test.html): 인천 송도 웩슬러 지능검사(K-WPPSI·K-WISC, 유아기~16세). 언어이해, 시공간, 유동추론, 작업기억, 처리속도를 종합적으로 평가하고 해석 상담으로 결과를 설명합니다. 상담 032-724-8175
+- [CAT 종합 주의력검사](https://positive0103-png.github.io/songdokidsclinic/attention-test.html): 인천 송도 주의력검사. CAT 종합 주의력검사(만 4세~성인)는 시각·청각 과제로 주의 집중과 충동 억제를 측정합니다. 산만하고 집중이 어려운 아이의 상담. 032-724-8175
+- [발달 선별·정밀 평가](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html): 인천 송도 아동 발달검사. K-CDI 아동발달검사, 자폐 검사, 작업치료 평가로 전반적인 발달 수준과 감각·운동 발달을 봅니다. 영유아검진 심화평가 정밀검사 가능. 상담 032-724-8175
+- [정서·행동·기질 검사](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html): 인천 송도 아동 기질검사·정서행동검사. TCI 기질 및 성격검사와 CBCL 아동·청소년 행동평가척도로 아이의 마음 상태와 타고난 성향을 봅니다. 상담 032-724-8175
+- [부모-자녀 관계 평가](https://positive0103-png.github.io/songdokidsclinic/parent-child-test.html): 인천 송도 부모-자녀 관계 평가. PCPA 부모-아동 상호작용 놀이평가와 부모양육태도검사로 아이와 보호자가 주고받는 방식을 살펴봅니다. 상담 032-724-8175
+- [영유아검진 ‘심화평가 권고’ 정밀검사](https://positive0103-png.github.io/songdokidsclinic/checkup.html): 영유아 건강검진 발달평가에서 ‘심화평가 권고’를 받았다면 인천 송도 송도키즈 학습심리발달클리닉에서 정밀검사를 받을 수 있습니다. 발달·언어·주의집중력 검사, 작업치료 평가. 보건소 검사비 지원 안내.
 
 ## 안내
 
-- [고민별 검사·프로그램 안내](https://lke081384-maker.github.io/songdo-kids-clinic/concerns.html): 말이 늦어요, 산만해요, 예민해요, 친구와 어울리기 어려워해요. 아이의 고민별로 인천 송도 송도키즈 학습심리발달클리닉에서 상담 때 함께 살펴보는 검사와 프로그램을 표로 정리했습니다.
-- [처음 오시는 분: 상담부터 수업까지](https://lke081384-maker.github.io/songdo-kids-clinic/first-visit.html): 인천 송도 송도키즈 학습심리발달클리닉 이용 절차. 상담 예약, 전문의 진료·상담, 초기 심층 상담, 평가·치료사 배정, 치료 프로그램, 6개월 뒤 재평가 순서로 진행합니다. 상담 032-724-8175
-- [클리닉 소개·선생님](https://lke081384-maker.github.io/songdo-kids-clinic/about.html): 송도키즈 학습심리발달클리닉은 인천 송도 송도키즈소아청소년과의원 부설 클리닉입니다. 전문의 진료 소견, 발달 전문가의 심층 상담, 표준화된 검사를 바탕으로 프로그램을 설계합니다. 선생님 이력 안내.
-- [오시는 길·운영 시간·주차](https://lke081384-maker.github.io/songdo-kids-clinic/location.html): 송도키즈 학습심리발달클리닉 위치: 인천 연수구 송도문화로28번길 28 송도글로벌캠퍼스푸르지오 상가 202동 2층 211호. 테크노파크역 2번 출구 약 480m. 평일 09:30~18:30, 토요일 09:00~17:00. 상가 주차장 이용.
-- [비급여 비용 안내](https://lke081384-maker.github.io/songdo-kids-clinic/fees.html): 인천 송도 송도키즈 학습심리발달클리닉의 비급여 진료비용(2026년 11월 19일 기준). 언어치료 90,000원, ABA치료 100,000원, 종합주의력검사(CAT) 150,000원 등 치료 5개, 검사 8개 항목의 비용과 시간을 표로 안내합니다.
-- [자주 묻는 질문](https://lke081384-maker.github.io/songdo-kids-clinic/faq.html): 송도키즈 학습심리발달클리닉에 보호자들이 자주 묻는 질문과 답. 검사 종류와 연령, 언어치료·놀이치료·감각통합·ABA, 영유아검진 정밀검사, 이용 절차, 운영 시간, 위치와 주차를 한곳에 모았습니다.
+- [고민별 검사·프로그램 안내](https://positive0103-png.github.io/songdokidsclinic/concerns.html): 말이 늦어요, 산만해요, 예민해요, 친구와 어울리기 어려워해요. 아이의 고민별로 인천 송도 송도키즈 학습심리발달클리닉에서 상담 때 함께 살펴보는 검사와 프로그램을 표로 정리했습니다.
+- [처음 오시는 분: 상담부터 수업까지](https://positive0103-png.github.io/songdokidsclinic/first-visit.html): 인천 송도 송도키즈 학습심리발달클리닉 이용 절차. 상담 예약, 전문의 진료·상담, 초기 심층 상담, 평가·치료사 배정, 치료 프로그램, 6개월 뒤 재평가 순서로 진행합니다. 상담 032-724-8175
+- [클리닉 소개·선생님](https://positive0103-png.github.io/songdokidsclinic/about.html): 송도키즈 학습심리발달클리닉은 인천 송도 송도키즈소아청소년과의원 부설 클리닉입니다. 전문의 진료 소견, 발달 전문가의 심층 상담, 표준화된 검사를 바탕으로 프로그램을 설계합니다. 선생님 이력 안내.
+- [오시는 길·운영 시간·주차](https://positive0103-png.github.io/songdokidsclinic/location.html): 송도키즈 학습심리발달클리닉 위치: 인천 연수구 송도문화로28번길 28 송도글로벌캠퍼스푸르지오 상가 202동 2층 211호. 테크노파크역 2번 출구 약 480m. 평일 09:30~18:30, 토요일 09:00~17:00. 상가 주차장 이용.
+- [비급여 비용 안내](https://positive0103-png.github.io/songdokidsclinic/fees.html): 인천 송도 송도키즈 학습심리발달클리닉의 비급여 진료비용(2026년 11월 19일 기준). 언어치료 90,000원, ABA치료 100,000원, 종합주의력검사(CAT) 150,000원 등 치료 5개, 검사 8개 항목의 비용과 시간을 표로 안내합니다.
+- [자주 묻는 질문](https://positive0103-png.github.io/songdokidsclinic/faq.html): 송도키즈 학습심리발달클리닉에 보호자들이 자주 묻는 질문과 답. 검사 종류와 연령, 언어치료·놀이치료·감각통합·ABA, 영유아검진 정밀검사, 이용 절차, 운영 시간, 위치와 주차를 한곳에 모았습니다.
 
 ## 자주 묻는 질문
 
@@ -95,8 +95,8 @@ TIO 앱에서 확인하실 수 있습니다. 카카오 또는 네이버 계정�
 
 ## 알림
 
-검사와 치료의 비급여 비용은 비용 안내 페이지(https://lke081384-maker.github.io/songdo-kids-clinic/fees.html)에 있습니다(2026년 11월 19일 기준). 금액은 바뀔 수 있어 상담할 때 확인이 필요합니다. 이 사이트의 내용은 일반적인 안내이며, 필요한 검사와 프로그램은 상담과 평가를 거쳐 정합니다.
+검사와 치료의 비급여 비용은 비용 안내 페이지(https://positive0103-png.github.io/songdokidsclinic/fees.html)에 있습니다(2026년 11월 19일 기준). 금액은 바뀔 수 있어 상담할 때 확인이 필요합니다. 이 사이트의 내용은 일반적인 안내이며, 필요한 검사와 프로그램은 상담과 평가를 거쳐 정합니다.
 
 ## Optional
 
-- [모든 안내 페이지의 본문을 한 파일로 모은 글](https://lke081384-maker.github.io/songdo-kids-clinic/llms-full.txt)
+- [모든 안내 페이지의 본문을 한 파일로 모은 글](https://positive0103-png.github.io/songdokidsclinic/llms-full.txt)
