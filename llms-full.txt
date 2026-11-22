@@ -13,25 +13,25 @@
 - 운영 시간: 평일 09:30~18:30, 토요일 09:00~17:00, 점심시간 13:00~14:00, 일요일·공휴일 휴무
 - 지하철: 인천 1호선 테크노파크역 2번 출구에서 약 480m, 걸어서 8분 정도
 - 주차: 게이트A 지하1층 상가 주차장
-- 홈페이지: https://positive0103-png.github.io/songdokidsclinic/
+- 홈페이지: https://songdokidsclinic.co.kr/
 
 ---
 
 # 치료·프로그램 안내
 
-주소: https://positive0103-png.github.io/songdokidsclinic/programs.html
+주소: https://songdokidsclinic.co.kr/programs.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)의 정규 프로그램은 언어치료, 놀이치료, 감각통합치료, 인지치료, 학습치료, ABA(응용행동분석) 여섯 가지입니다. 초등학교 입학을 앞두었거나 단체생활 적응이 필요한 아이를 위한 사회성 그룹 「나의 학교 생활을 부탁해」도 있습니다. 검사 결과와 상담 내용을 바탕으로 아이에게 필요한 수업을 안내합니다.
 
 ## 프로그램 한눈에 보기
 
-- [언어치료](https://positive0103-png.github.io/songdokidsclinic/language-therapy.html): 말이 늦거나 발음이 부정확할 때, 말을 더듬거나 생각을 말로 풀어내기 어려울 때 아이의 언어 이해와 표현을 돕습니다.
-- [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html): 아이에게는 놀이가 언어입니다. 놀이로 상호작용을 배우고, 자기 감정을 이해하고 표현하도록 돕습니다.
-- [감각통합치료](https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html): 몸으로 들어오는 감각 자극을 잘 받아들이고 알맞게 반응하도록 돕는 활동입니다. 운동과 시지각 활동을 함께 합니다.
-- [인지치료](https://positive0103-png.github.io/songdokidsclinic/cognitive-therapy.html): 정보를 기억하고 활용하는 연습을 합니다. 스스로 생각하는 힘과 학습에 필요한 준비를 돕습니다.
-- [학습치료](https://positive0103-png.github.io/songdokidsclinic/learning-therapy.html): 공부 자체만 보지 않습니다. 대인관계, 스트레스, 시험불안처럼 학습을 어렵게 하는 마음의 문제까지 함께 다룹니다.
-- [ABA 응용행동분석](https://positive0103-png.github.io/songdokidsclinic/aba.html): 새로운 것을 배우거나 환경에 적응하기 어려운 아이의 행동을 살펴보고 중재합니다. BCBA 슈퍼바이저와의 개별 상담으로 시작합니다.
-- [사회성 그룹 「나의 학교 생활을 부탁해」](https://positive0103-png.github.io/songdokidsclinic/social-group.html): 학교에 잘 적응할 수 있을지, 친구들과 잘 지낼 수 있을지, 수업 시간에 집중할 수 있을지 걱정될 때 또래와 함께 연습하는 그룹 수업입니다.
+- [언어치료](https://songdokidsclinic.co.kr/language-therapy.html): 말이 늦거나 발음이 부정확할 때, 말을 더듬거나 생각을 말로 풀어내기 어려울 때 아이의 언어 이해와 표현을 돕습니다.
+- [놀이치료](https://songdokidsclinic.co.kr/play-therapy.html): 아이에게는 놀이가 언어입니다. 놀이로 상호작용을 배우고, 자기 감정을 이해하고 표현하도록 돕습니다.
+- [감각통합치료](https://songdokidsclinic.co.kr/sensory-integration.html): 몸으로 들어오는 감각 자극을 잘 받아들이고 알맞게 반응하도록 돕는 활동입니다. 운동과 시지각 활동을 함께 합니다.
+- [인지치료](https://songdokidsclinic.co.kr/cognitive-therapy.html): 정보를 기억하고 활용하는 연습을 합니다. 스스로 생각하는 힘과 학습에 필요한 준비를 돕습니다.
+- [학습치료](https://songdokidsclinic.co.kr/learning-therapy.html): 공부 자체만 보지 않습니다. 대인관계, 스트레스, 시험불안처럼 학습을 어렵게 하는 마음의 문제까지 함께 다룹니다.
+- [ABA 응용행동분석](https://songdokidsclinic.co.kr/aba.html): 새로운 것을 배우거나 환경에 적응하기 어려운 아이의 행동을 살펴보고 중재합니다. BCBA 슈퍼바이저와의 개별 상담으로 시작합니다.
+- [사회성 그룹 「나의 학교 생활을 부탁해」](https://songdokidsclinic.co.kr/social-group.html): 학교에 잘 적응할 수 있을지, 친구들과 잘 지낼 수 있을지, 수업 시간에 집중할 수 있을지 걱정될 때 또래와 함께 연습하는 그룹 수업입니다.
 
 ## 상담부터 수업까지
 
@@ -65,7 +65,7 @@
 
 # 언어치료
 
-주소: https://positive0103-png.github.io/songdokidsclinic/language-therapy.html
+주소: https://songdokidsclinic.co.kr/language-therapy.html
 
 송도키즈 학습심리발달클리닉의 언어치료는 말이 늦거나 발음이 부정확할 때, 말을 더듬거나 생각을 말로 풀어내기 어려울 때 아이의 언어 이해와 표현을 돕는 수업입니다. 인천 연수구 송도에 있는 송도키즈소아청소년과의원 부설 클리닉으로, 아이의 연령에 맞는 언어검사로 먼저 살펴보고 필요한 수업을 안내합니다.
 
@@ -136,7 +136,7 @@
 
 # 놀이치료
 
-주소: https://positive0103-png.github.io/songdokidsclinic/play-therapy.html
+주소: https://songdokidsclinic.co.kr/play-therapy.html
 
 놀이치료는 놀이로 상호작용을 배우고, 아이가 자기 감정을 이해하고 표현하도록 돕는 수업입니다. 아이에게는 놀이가 언어이기 때문입니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서는 불안이나 감정 표현, 또래 관계가 걱정될 때 상담과 검사를 거쳐 놀이치료를 안내합니다.
 
@@ -199,7 +199,7 @@
 
 # 감각통합치료
 
-주소: https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html
+주소: https://songdokidsclinic.co.kr/sensory-integration.html
 
 감각통합치료는 몸으로 들어오는 감각 자극을 잘 받아들이고 알맞게 반응하도록 돕는 활동입니다. 운동과 시지각 활동을 함께 합니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)의 감각통합 활동실에는 그네와 암벽 같은 기구가 준비되어 있습니다.
 
@@ -261,7 +261,7 @@
 
 # 인지치료
 
-주소: https://positive0103-png.github.io/songdokidsclinic/cognitive-therapy.html
+주소: https://songdokidsclinic.co.kr/cognitive-therapy.html
 
 인지치료는 정보를 기억하고 활용하는 연습을 하는 수업입니다. 스스로 생각하는 힘과 학습에 필요한 준비를 돕습니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서는 웩슬러 지능검사 같은 검사 결과와 상담 내용을 바탕으로 인지치료를 안내합니다.
 
@@ -312,7 +312,7 @@
 
 # 학습치료
 
-주소: https://positive0103-png.github.io/songdokidsclinic/learning-therapy.html
+주소: https://songdokidsclinic.co.kr/learning-therapy.html
 
 학습치료는 공부 자체만 보지 않습니다. 대인관계, 스트레스, 시험불안처럼 학습을 어렵게 하는 마음의 문제까지 함께 다루는 수업입니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서는 검사 결과와 상담 내용을 바탕으로 학습치료를 안내합니다.
 
@@ -367,7 +367,7 @@ KOLRA 한국어 읽기검사(초등 1학년~6학년)로 읽기 능력을 평가�
 
 # ABA 응용행동분석
 
-주소: https://positive0103-png.github.io/songdokidsclinic/aba.html
+주소: https://songdokidsclinic.co.kr/aba.html
 
 ABA(응용행동분석)는 새로운 것을 배우거나 환경에 적응하기 어려운 아이의 행동을 살펴보고 중재하는 프로그램입니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서는 BCBA 슈퍼바이저와의 개별 상담으로 시작합니다.
 
@@ -415,7 +415,7 @@ ABA치료는 100,000원이고 시간은 40분(5분 상담)입니다(2026년 11�
 
 # 사회성 그룹 「나의 학교 생활을 부탁해」
 
-주소: https://positive0103-png.github.io/songdokidsclinic/social-group.html
+주소: https://songdokidsclinic.co.kr/social-group.html
 
 사회성 그룹 「나의 학교 생활을 부탁해」는 학교에 잘 적응할 수 있을지, 친구들과 잘 지낼 수 있을지, 수업 시간에 집중할 수 있을지 걱정될 때 또래와 함께 연습하는 그룹 수업입니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서 4~6명이 함께 6회기로 진행합니다.
 
@@ -474,7 +474,7 @@ K-SNAP 의사소통 발달 검사와 CBCL 아동·청소년 행동평가척도�
 
 # 검사 안내
 
-주소: https://positive0103-png.github.io/songdokidsclinic/tests.html
+주소: https://songdokidsclinic.co.kr/tests.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 언어·의사소통, 인지·학습, 주의집중, 발달, 정서·행동·기질, 부모-자녀 관계 여섯 영역에서 검사와 평가 18종을 합니다. 아이의 연령과 고민에 맞는 검사를 고르며, 어떤 검사가 필요한지는 초기상담에서 함께 정하니 검사 이름을 몰라도 괜찮습니다.
 
@@ -554,7 +554,7 @@ K-SNAP 의사소통 발달 검사와 CBCL 아동·청소년 행동평가척도�
 
 # 언어·의사소통 검사
 
-주소: https://positive0103-png.github.io/songdokidsclinic/language-test.html
+주소: https://songdokidsclinic.co.kr/language-test.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 말을 이해하고 표현하는 힘, 어휘와 의사소통 발달을 보는 언어·의사소통 검사 8종을 합니다. 생후 4개월부터 받을 수 있는 SELSI부터 초등학생이 받는 LSSC까지, 아이의 연령과 고민에 맞는 도구를 고릅니다.
 
@@ -618,7 +618,7 @@ K-SNAP 의사소통 발달 검사와 CBCL 아동·청소년 행동평가척도�
 
 # 웩슬러 지능검사·학습 성향 검사
 
-주소: https://positive0103-png.github.io/songdokidsclinic/intelligence-test.html
+주소: https://songdokidsclinic.co.kr/intelligence-test.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서는 웩슬러 지능검사(K-WPPSI·K-WISC, 유아기~16세)로 아이의 인지 능력을 평가합니다. 언어이해, 시공간, 유동추론, 작업기억, 처리속도 등 여러 인지 영역을 종합적으로 평가해 아이의 인지적 강점과 약점을 파악합니다. 공부하는 성향과 방식을 점검하는 학습 성향 검사도 있습니다.
 
@@ -671,7 +671,7 @@ K-SNAP 의사소통 발달 검사와 CBCL 아동·청소년 행동평가척도�
 
 # CAT 종합 주의력검사
 
-주소: https://positive0103-png.github.io/songdokidsclinic/attention-test.html
+주소: https://songdokidsclinic.co.kr/attention-test.html
 
 CAT 종합 주의력검사는 시각·청각 과제로 주의 집중과 충동 억제를 측정하는 검사입니다. 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서 만 4세부터 받을 수 있고, 집중하는 힘과 충동을 조절하는 힘을 봅니다.
 
@@ -722,7 +722,7 @@ CAT 종합 주의력검사와 웩슬러 지능검사(K-WPPSI·K-WISC)를 함께 
 
 # 발달 선별·정밀 평가
 
-주소: https://positive0103-png.github.io/songdokidsclinic/developmental-test.html
+주소: https://songdokidsclinic.co.kr/developmental-test.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 K-CDI 아동발달검사, 자폐 검사, 작업치료 평가로 아이의 전반적인 발달 수준과 감각·운동 발달을 봅니다. 영유아 건강검진에서 ‘심화평가 권고’를 받은 아이의 정밀검사도 할 수 있습니다.
 
@@ -779,7 +779,7 @@ CAT 종합 주의력검사와 웩슬러 지능검사(K-WPPSI·K-WISC)를 함께 
 
 # 정서·행동·기질 검사
 
-주소: https://positive0103-png.github.io/songdokidsclinic/emotion-test.html
+주소: https://songdokidsclinic.co.kr/emotion-test.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 TCI 기질 및 성격검사와 CBCL 아동·청소년 행동평가척도로 아이의 마음 상태와 타고난 성향을 봅니다. 예민함이나 고집처럼 이해하기 어려웠던 모습을 기질 관점에서 살펴볼 수 있습니다.
 
@@ -835,7 +835,7 @@ TCI·JTCI는 150,000원이고 검사 시간은 40분입니다(2026년 11월 19�
 
 # 부모-자녀 관계 평가
 
-주소: https://positive0103-png.github.io/songdokidsclinic/parent-child-test.html
+주소: https://songdokidsclinic.co.kr/parent-child-test.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 PCPA 부모-아동 상호작용 놀이평가와 부모양육태도검사로 아이와 보호자가 주고받는 방식을 봅니다. 아이와 어떻게 놀아 줘야 할지 모르겠을 때 상담해 주세요.
 
@@ -884,7 +884,7 @@ PCPA 부모-아동 상호작용 놀이평가와 부모양육태도검사를 함�
 
 # 영유아검진 ‘심화평가 권고’ 정밀검사
 
-주소: https://positive0103-png.github.io/songdokidsclinic/checkup.html
+주소: https://songdokidsclinic.co.kr/checkup.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 영유아 건강검진 발달평가에서 ‘심화평가 권고’ 판정을 받은 아이의 정밀검사가 가능한 기관입니다. 발달검사, 언어평가, 주의집중력 검사, 작업치료 평가를 할 수 있습니다.
 
@@ -942,37 +942,37 @@ PCPA 부모-아동 상호작용 놀이평가와 부모양육태도검사를 함�
 
 # 고민별 검사·프로그램 안내
 
-주소: https://positive0103-png.github.io/songdokidsclinic/concerns.html
+주소: https://songdokidsclinic.co.kr/concerns.html
 
 아이의 고민에 따라 송도키즈 학습심리발달클리닉(인천 연수구 송도)에서 상담 때 함께 살펴보는 검사와 프로그램을 정리했습니다. 말, 생각·집중, 마음, 몸·감각, 관계, 영유아 건강검진으로 나누어 보실 수 있습니다. 실제로 필요한 검사와 수업은 초기상담에서 아이의 연령과 모습을 듣고 함께 정합니다.
 
 ## 고민별로 살펴보는 검사와 프로그램
 
 ### 말
-- 말이 또래보다 늦어요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://positive0103-png.github.io/songdokidsclinic/language-test.html) / 프로그램: [언어치료](https://positive0103-png.github.io/songdokidsclinic/language-therapy.html)
-- 발음이 정확하지 않아요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://positive0103-png.github.io/songdokidsclinic/language-test.html) / 프로그램: [언어치료](https://positive0103-png.github.io/songdokidsclinic/language-therapy.html)
-- 말할 때 더듬거나 막혀요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://positive0103-png.github.io/songdokidsclinic/language-test.html) / 프로그램: [언어치료](https://positive0103-png.github.io/songdokidsclinic/language-therapy.html)
+- 말이 또래보다 늦어요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://songdokidsclinic.co.kr/language-test.html) / 프로그램: [언어치료](https://songdokidsclinic.co.kr/language-therapy.html)
+- 발음이 정확하지 않아요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://songdokidsclinic.co.kr/language-test.html) / 프로그램: [언어치료](https://songdokidsclinic.co.kr/language-therapy.html)
+- 말할 때 더듬거나 막혀요 → 함께 살펴보는 검사: [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://songdokidsclinic.co.kr/language-test.html) / 프로그램: [언어치료](https://songdokidsclinic.co.kr/language-therapy.html)
 
 ### 생각·집중
-- 산만하고 집중을 잘 못해요 → 함께 살펴보는 검사: [CAT 종합 주의력검사 (만 4세~성인)](https://positive0103-png.github.io/songdokidsclinic/attention-test.html), [웩슬러 지능검사 (K-WPPSI·K-WISC)](https://positive0103-png.github.io/songdokidsclinic/intelligence-test.html) / 프로그램: [감각통합치료](https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html)
-- 학습 속도가 더뎌요 → 함께 살펴보는 검사: [웩슬러 지능검사 (K-WPPSI·K-WISC)](https://positive0103-png.github.io/songdokidsclinic/intelligence-test.html), [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://positive0103-png.github.io/songdokidsclinic/language-test.html), [학습 성향 검사](https://positive0103-png.github.io/songdokidsclinic/intelligence-test.html) / 프로그램: [인지치료](https://positive0103-png.github.io/songdokidsclinic/cognitive-therapy.html), [학습치료](https://positive0103-png.github.io/songdokidsclinic/learning-therapy.html)
+- 산만하고 집중을 잘 못해요 → 함께 살펴보는 검사: [CAT 종합 주의력검사 (만 4세~성인)](https://songdokidsclinic.co.kr/attention-test.html), [웩슬러 지능검사 (K-WPPSI·K-WISC)](https://songdokidsclinic.co.kr/intelligence-test.html) / 프로그램: [감각통합치료](https://songdokidsclinic.co.kr/sensory-integration.html)
+- 학습 속도가 더뎌요 → 함께 살펴보는 검사: [웩슬러 지능검사 (K-WPPSI·K-WISC)](https://songdokidsclinic.co.kr/intelligence-test.html), [언어발달검사 (SELSI·PRES·REVT 등 연령에 맞게)](https://songdokidsclinic.co.kr/language-test.html), [학습 성향 검사](https://songdokidsclinic.co.kr/intelligence-test.html) / 프로그램: [인지치료](https://songdokidsclinic.co.kr/cognitive-therapy.html), [학습치료](https://songdokidsclinic.co.kr/learning-therapy.html)
 
 ### 마음
-- 예민하고 고집이 세요 → 함께 살펴보는 검사: [TCI 기질검사](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html) / 프로그램: [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html)
-- 불안이 크고 낯을 많이 가려요 → 함께 살펴보는 검사: [TCI 기질검사](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html), [CBCL 행동평가척도](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html) / 프로그램: [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html)
-- 감정 표현이 서툴러요 → 함께 살펴보는 검사: [CBCL 행동평가척도](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html), [K-CDI 아동발달검사](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html) / 프로그램: [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html)
+- 예민하고 고집이 세요 → 함께 살펴보는 검사: [TCI 기질검사](https://songdokidsclinic.co.kr/emotion-test.html) / 프로그램: [놀이치료](https://songdokidsclinic.co.kr/play-therapy.html)
+- 불안이 크고 낯을 많이 가려요 → 함께 살펴보는 검사: [TCI 기질검사](https://songdokidsclinic.co.kr/emotion-test.html), [CBCL 행동평가척도](https://songdokidsclinic.co.kr/emotion-test.html) / 프로그램: [놀이치료](https://songdokidsclinic.co.kr/play-therapy.html)
+- 감정 표현이 서툴러요 → 함께 살펴보는 검사: [CBCL 행동평가척도](https://songdokidsclinic.co.kr/emotion-test.html), [K-CDI 아동발달검사](https://songdokidsclinic.co.kr/developmental-test.html) / 프로그램: [놀이치료](https://songdokidsclinic.co.kr/play-therapy.html)
 
 ### 몸·감각
-- 소리나 촉감에 유난히 예민해요 → 함께 살펴보는 검사: [작업치료(감각) 평가](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html) / 프로그램: [감각통합치료](https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html)
-- 몸 움직임이 서툴러요 → 함께 살펴보는 검사: [작업치료(감각) 평가](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html) / 프로그램: [감각통합치료](https://positive0103-png.github.io/songdokidsclinic/sensory-integration.html)
+- 소리나 촉감에 유난히 예민해요 → 함께 살펴보는 검사: [작업치료(감각) 평가](https://songdokidsclinic.co.kr/developmental-test.html) / 프로그램: [감각통합치료](https://songdokidsclinic.co.kr/sensory-integration.html)
+- 몸 움직임이 서툴러요 → 함께 살펴보는 검사: [작업치료(감각) 평가](https://songdokidsclinic.co.kr/developmental-test.html) / 프로그램: [감각통합치료](https://songdokidsclinic.co.kr/sensory-integration.html)
 
 ### 관계
-- 친구와 어울리기 어려워해요 → 함께 살펴보는 검사: [K-CDI 아동발달검사](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html), [CBCL 행동평가척도](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html) / 프로그램: [사회성 그룹 「나의 학교 생활을 부탁해」](https://positive0103-png.github.io/songdokidsclinic/social-group.html), [놀이치료](https://positive0103-png.github.io/songdokidsclinic/play-therapy.html)
-- 어린이집·학교 적응이 걱정돼요 → 함께 살펴보는 검사: [K-SNAP 의사소통 발달 검사](https://positive0103-png.github.io/songdokidsclinic/language-test.html), [CBCL 행동평가척도](https://positive0103-png.github.io/songdokidsclinic/emotion-test.html) / 프로그램: [사회성 그룹 「나의 학교 생활을 부탁해」](https://positive0103-png.github.io/songdokidsclinic/social-group.html)
-- 아이와 어떻게 놀아 줘야 할지 모르겠어요 → 함께 살펴보는 검사: [PCPA 부모-아동 상호작용 놀이평가](https://positive0103-png.github.io/songdokidsclinic/parent-child-test.html), [부모양육태도검사](https://positive0103-png.github.io/songdokidsclinic/parent-child-test.html) / 프로그램: 해석 상담
+- 친구와 어울리기 어려워해요 → 함께 살펴보는 검사: [K-CDI 아동발달검사](https://songdokidsclinic.co.kr/developmental-test.html), [CBCL 행동평가척도](https://songdokidsclinic.co.kr/emotion-test.html) / 프로그램: [사회성 그룹 「나의 학교 생활을 부탁해」](https://songdokidsclinic.co.kr/social-group.html), [놀이치료](https://songdokidsclinic.co.kr/play-therapy.html)
+- 어린이집·학교 적응이 걱정돼요 → 함께 살펴보는 검사: [K-SNAP 의사소통 발달 검사](https://songdokidsclinic.co.kr/language-test.html), [CBCL 행동평가척도](https://songdokidsclinic.co.kr/emotion-test.html) / 프로그램: [사회성 그룹 「나의 학교 생활을 부탁해」](https://songdokidsclinic.co.kr/social-group.html)
+- 아이와 어떻게 놀아 줘야 할지 모르겠어요 → 함께 살펴보는 검사: [PCPA 부모-아동 상호작용 놀이평가](https://songdokidsclinic.co.kr/parent-child-test.html), [부모양육태도검사](https://songdokidsclinic.co.kr/parent-child-test.html) / 프로그램: 해석 상담
 
 ### 영유아 건강검진
-- 영유아검진에서 ‘심화평가 권고’를 받았어요 → 함께 살펴보는 검사: [발달·언어·주의집중력 검사](https://positive0103-png.github.io/songdokidsclinic/checkup.html), [작업치료 평가](https://positive0103-png.github.io/songdokidsclinic/developmental-test.html) / 프로그램: [보건소 정밀검사비 지원 안내](https://positive0103-png.github.io/songdokidsclinic/checkup.html)
+- 영유아검진에서 ‘심화평가 권고’를 받았어요 → 함께 살펴보는 검사: [발달·언어·주의집중력 검사](https://songdokidsclinic.co.kr/checkup.html), [작업치료 평가](https://songdokidsclinic.co.kr/developmental-test.html) / 프로그램: [보건소 정밀검사비 지원 안내](https://songdokidsclinic.co.kr/checkup.html)
 
 ## 상담부터 수업까지
 
@@ -1006,7 +1006,7 @@ K-CDI 아동발달검사와 CBCL 행동평가척도를 살펴보고, 사회성 �
 
 # 처음 오시는 분: 상담부터 수업까지
 
-주소: https://positive0103-png.github.io/songdokidsclinic/first-visit.html
+주소: https://songdokidsclinic.co.kr/first-visit.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)은 상담 예약, 전문의 진료·상담, 초기 심층 상담, 평가와 치료사 배정, 치료 프로그램, 경과 확인·재평가 순서로 진행합니다. 처음이라면 상담 예약부터 하세요. 검사 이름을 몰라도 걱정되는 점만 말씀해 주시면 됩니다.
 
@@ -1029,7 +1029,7 @@ K-CDI 아동발달검사와 CBCL 행동평가척도를 살펴보고, 사회성 �
 - 문자: 010-8108-8275
 - 카카오톡 채널: https://pf.kakao.com/_xjqXln
 - 이메일: positive0103@naver.com
-- 상담 신청서: https://positive0103-png.github.io/songdokidsclinic/#contact
+- 상담 신청서: https://songdokidsclinic.co.kr/#contact
 
 ## 운영 시간과 위치
 
@@ -1063,7 +1063,7 @@ TIO 앱에서 확인하실 수 있습니다. 카카오 또는 네이버 계정�
 
 # 클리닉 소개·선생님
 
-주소: https://positive0103-png.github.io/songdokidsclinic/about.html
+주소: https://songdokidsclinic.co.kr/about.html
 
 송도키즈 학습심리발달클리닉은 인천 연수구 송도글로벌캠퍼스푸르지오 상가 202동 2층에 있는 송도키즈소아청소년과의원 부설 클리닉입니다. 말이 늦거나 집중이 어려울 때, 친구 관계나 단체생활 적응이 걱정될 때 찾아 주세요. 전문의의 진료 소견과 발달 전문가의 심층 상담, 표준화된 검사를 바탕으로 아이에게 맞는 프로그램을 설계합니다.
 
@@ -1109,7 +1109,7 @@ ABA 치료사(BCBA Supervisor), 언어치료사(1급 언어재활사), 임상심
 
 # 오시는 길·운영 시간·주차
 
-주소: https://positive0103-png.github.io/songdokidsclinic/location.html
+주소: https://songdokidsclinic.co.kr/location.html
 
 송도키즈 학습심리발달클리닉은 인천 연수구 송도문화로28번길 28 송도글로벌캠퍼스푸르지오 상가 202동 2층 211호에 있습니다. 인천 1호선 테크노파크역 2번 출구에서 약 480m, 걸어서 8분 정도입니다. 평일 09:30~18:30, 토요일 09:00~17:00에 운영하고 일요일과 공휴일에는 쉽니다.
 
@@ -1133,7 +1133,7 @@ ABA 치료사(BCBA Supervisor), 언어치료사(1급 언어재활사), 임상심
 - 문자: 010-8108-8275
 - 카카오톡 채널: https://pf.kakao.com/_xjqXln
 - 이메일: positive0103@naver.com
-- 상담 신청서: https://positive0103-png.github.io/songdokidsclinic/#contact
+- 상담 신청서: https://songdokidsclinic.co.kr/#contact
 
 ## 자주 묻는 질문
 
@@ -1153,7 +1153,7 @@ ABA 치료사(BCBA Supervisor), 언어치료사(1급 언어재활사), 임상심
 
 # 비급여 비용 안내
 
-주소: https://positive0103-png.github.io/songdokidsclinic/fees.html
+주소: https://songdokidsclinic.co.kr/fees.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)의 비급여 진료비용입니다. 2026년 11월 19일 기준으로 언어치료는 90,000원, ABA치료는 100,000원, 종합주의력검사(CAT)는 150,000원입니다. 치료 5개, 검사 8개 항목의 비용과 시간을 아래 표에서 확인하실 수 있습니다. 금액은 바뀔 수 있으니 정확한 비용은 상담할 때 확인해 주세요.
 
@@ -1194,7 +1194,7 @@ ABA 치료사(BCBA Supervisor), 언어치료사(1급 언어재활사), 임상심
 - 문자: 010-8108-8275
 - 카카오톡 채널: https://pf.kakao.com/_xjqXln
 - 이메일: positive0103@naver.com
-- 상담 신청서: https://positive0103-png.github.io/songdokidsclinic/#contact
+- 상담 신청서: https://songdokidsclinic.co.kr/#contact
 
 ## 자주 묻는 질문
 
@@ -1226,7 +1226,7 @@ TCI·JTCI는 150,000원이고 검사 시간은 40분입니다(2026년 11월 19�
 
 # 자주 묻는 질문
 
-주소: https://positive0103-png.github.io/songdokidsclinic/faq.html
+주소: https://songdokidsclinic.co.kr/faq.html
 
 송도키즈 학습심리발달클리닉(인천 연수구 송도)에 보호자들이 자주 묻는 질문을 주제별로 모았습니다. 여기에 없는 내용은 전화(032-724-8175)나 카카오톡 채널로 편하게 물어보세요.
 
